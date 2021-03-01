@@ -1,3 +1,3 @@
-# DibsAutoload PHP Autoloader...
+# DibsAutoload PHP Autoloader
 
 DibsAutoloader recursively loads include files.
