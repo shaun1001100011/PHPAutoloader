@@ -64,15 +64,15 @@
 
 /****************
  *
- * DibsAutoloader will recursively load class files in the directory name provided.
+ * PHPAutoloader will recursively load class files in the directory name provided.
  *
- * @package DibsAutoload
+ * @package PHPAutoloader
  * @author Shaun Crawford <shaun@shaunco.com>
  * @version 1.0.0
  * @license https://www.gnu.org/licenses/gpl-3.0.en.html
  *
  */
-class DibsAutoload
+class PHPAutoloader
 {
 
     /********
